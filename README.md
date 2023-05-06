@@ -1,1 +1,2 @@
-# assistant_grigoriy
+# Voice Assistant Grigoriy
+# Голосовой помощник Григорий
